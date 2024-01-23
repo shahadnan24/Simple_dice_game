@@ -12,7 +12,7 @@ Dice Game is a simple web-based dice rolling game that adds an element of luck a
 - **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `jQuery`
 - **Live Demo - Dice Game:** [Click here](https://shreyamalogi.github.io/Dice-game/)
 
-- **Author:** [@shreyamalogi](https://github.com/shreyamalogi/)
+- **Author:** shahadnan24
 - **Year of Project:** 2020
 
 ---
@@ -43,7 +43,7 @@ In the realm of digital gaming, Dice Game takes the classic dice rolling concept
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/shreyamalogi/Dice-game.git
+    git clone https://github.com/shahadnan24/Simple_dice_game
     ```
 
 2. **Open the Portal**:
@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE). Roll responsibly!
 
 MIT License
 
-Copyright (c) 2020 Shreya Malogi
+Copyright (c) 2020 adnan shah
 
 ## Show Your Support (Star This) ⭐🌟
 
